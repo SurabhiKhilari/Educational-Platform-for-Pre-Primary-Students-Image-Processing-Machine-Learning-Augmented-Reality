@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hrushabh KD Jr\Desktop\Seminar\Abhishek\Report\Lato2OFL\ABC AR\libs\Vuforia.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="be3db5d282d7094986c342631085ca4d84c02603">
+        <dex dex="C:\Users\Hrushabh KD Jr\Desktop\Seminar\Abhishek\Report\Lato2OFL\ABC AR\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hrushabh KD Jr\Desktop\Seminar\Abhishek\Report\Lato2OFL\ABC AR\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="90edd05b777416e525a749e7974be784f1fd19a4">
+        <dex dex="C:\Users\Hrushabh KD Jr\Desktop\Seminar\Abhishek\Report\Lato2OFL\ABC AR\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Hrushabh KD Jr\Desktop\Seminar\Abhishek\Report\Lato2OFL\ABC AR\libs\VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95f5205a17a7546c265d4a27d1e6f8be7b6f3f03">
+        <dex dex="C:\Users\Hrushabh KD Jr\Desktop\Seminar\Abhishek\Report\Lato2OFL\ABC AR\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>

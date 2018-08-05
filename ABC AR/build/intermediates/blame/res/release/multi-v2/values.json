@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Hrushabh KD Jr\\Desktop\\Seminar\\Abhishek\\Report\\Lato2OFL\\ABC AR\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Hrushabh KD Jr\\Desktop\\Seminar\\Abhishek\\Report\\Lato2OFL\\ABC AR\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "53",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "147"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "99",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "192"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Hrushabh KD Jr\\Desktop\\Seminar\\Abhishek\\Report\\Lato2OFL\\ABC AR\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "94"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "43",
+                        "endOffsets": "94"
+                    }
+                }
+            ]
+        }
+    ]
+}

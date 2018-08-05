@@ -1,0 +1,5 @@
+apple
+brush
+chair
+dog
+umbrella

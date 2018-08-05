@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Tensor-android-test\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "D:\\Tensor-android-test\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "226,378",
+                        "endLines": "9,11",
+                        "endColumns": "12,102",
+                        "endOffsets": "372,476"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,206",
+                        "endLines": "4,5",
+                        "endColumns": "12,95",
+                        "endOffsets": "201,297"
+                    }
+                }
+            ]
+        }
+    ]
+}

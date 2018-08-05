@@ -1,0 +1,4 @@
+#Wed May 02 13:12:33 IST 2018
+base.0=D\:\\Tensor-android-test\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
